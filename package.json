@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "zd",
+  "description": "place your order and devoured it keep track.\r ##  Contents\r     - [description](#description)\r     - [Installation](#Installation)\r     - [language](#language)\r     - [License](#License)\r     - [badge](#badge)\r     - [Aurthors](#Aurthors)\r     - [screenshots](#screenshots)\r     - [Github](#Github)\r     - [GithubURL](#githubURL)\r     - [Linkedin](#Linkedin)",
+  "version": "1.0.0",
+  "main": "d",
+  "repository": {
+    "type": "git",
+    "url": "d"
+  },
+  "keywords": [
+    "d"
+  ],
+  "author": "d",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "mysql": "^2.18.1"
+  }
+}
